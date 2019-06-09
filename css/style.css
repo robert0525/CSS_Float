@@ -101,8 +101,18 @@ a {
 		width: 85%;
 		max-width: 1150px;
 		margin: 0 auto;
-  
 	}
+
+  .main-nav {
+    float: right;
+  }
+  
+  
+  
+
+  .name {
+    float: left;
+  }
 
 	.feat-img {
 		width: 300px;
