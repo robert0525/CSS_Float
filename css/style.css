@@ -105,8 +105,12 @@ a {
 
   .main-nav {
     float: right;
-  }
+}
   
+.main-nav li {
+  float: left;
+  margin-left: 12px;
+}
   
   
 
